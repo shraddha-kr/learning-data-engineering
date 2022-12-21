@@ -3,31 +3,34 @@ from pprint import pprint
 
 # JSON basics
 
-# Below is an example of a json array of objects in ./data/data_subset.json file
-# [
-#     {
-#         "InvoiceNo": 536370,
-#         "StockCode": 22492,
-#         "Description": "MINI PAINT SET VINTAGE",
-#         "Quantity": 36,
-#         "InvoiceDate": "12/1/2010 8:45",
-#         "UnitPrice": 0.65,
-#         "CustomerID": 12583,
-#         "Country": "France"
-#     },
-#     {
-#         "InvoiceNo": 536372,
-#         "StockCode": 22632,
-#         "Description": "HAND WARMER RED POLKA DOT",
-#         "Quantity": 6,
-#         "InvoiceDate": "12/1/2010 9:01",
-#         "UnitPrice": 1.85,
-#         "CustomerID": 17850,
-#         "Country": "United Kingdom"
-#     },
-#     ...
-#     ...
-# ]
+"""
+Below is an example of a json array of objects in ./data/data_subset.json file
+[
+    {
+        "InvoiceNo": 536370,
+        "StockCode": 22492,
+        "Description": "MINI PAINT SET VINTAGE",
+        "Quantity": 36,
+        "InvoiceDate": "12/1/2010 8:45",
+        "UnitPrice": 0.65,
+        "CustomerID": 12583,
+        "Country": "France"
+    },
+    {
+        "InvoiceNo": 536372,
+        "StockCode": 22632,
+        "Description": "HAND WARMER RED POLKA DOT",
+        "Quantity": 6,
+        "InvoiceDate": "12/1/2010 9:01",
+        "UnitPrice": 1.85,
+        "CustomerID": 17850,
+        "Country": "United Kingdom"
+    },
+    ...
+    ...
+]
+
+"""
 
 ''' Deserialization of JSON is a conversion of JSON objects into their respective Python objects using JSON decoder following
 the translations bellow.
@@ -44,7 +47,7 @@ false   False
 '''
 
 # Load JSON from file (deserialize text or binary file containing a JSON document to a Python object)
-with open("//home/ubuntu/Desktop/Github/data-engineering/data/data_subset.json") as json_file:
+with open("/home/ubuntu/Desktop/Github/learning-data-engineering/data/data_subset.json") as json_file:
     data = json.load(json_file)
 
 pprint(data)
@@ -113,5 +116,5 @@ pprint(transactions_list_of_dicts)
 pprint(json.dumps(transactions_list_of_dicts))
 
 # Or to a file (do not forget to specify 'w' write mode):
-with open("/home/ubuntu/Desktop/Github/data-engineering/data/dumped_json.json", 'w') as json_file:
+with open("/home/ubuntu/Desktop/Github/learning-data-engineering/data/dumped_json.json", 'w') as json_file:
     json.dump(transactions_list_of_dicts, json_file)

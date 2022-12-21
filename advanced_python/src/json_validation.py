@@ -47,7 +47,9 @@ def validate_json(json_data):
     return True
 
 def validate_json_schema(json_data, my_schema):
-    """REF: https//json-schema.org/"""
+    """ 
+    REF: https//json-schema.org/
+    """
     schema = my_schema
     try:
         validate(instance=json_data, schema=schema)
@@ -63,7 +65,7 @@ if __name__ == '__main__':
 # Create JSOn schema with attributes and types
 
 # JSON Validation
-    with open("/home/ubuntu/Desktop/Github/data-engineering/data/data_subset.json") as json_file:
+    with open("/home/ubuntu/Desktop/Github/learning-data-engineering/data/data_subset.json") as json_file:
         data = json.load(json_file)       
 
 # Below is an example of a json array of objects in data_subset.json file
