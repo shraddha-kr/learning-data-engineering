@@ -30,7 +30,8 @@ ctx = connector.connect(
     region= 'ap-southeast-1',
     # snowflake_id is like jh59432
     # snowflake account-url 'jh59432.ap-southeast-1.snowflakecomputing.com'
-    account=f'{snowflake_id}.{region}.snowflakecomputing.com',
+    account=f'{snowflake_id}.snowflakecomputing.com',
+    # account=f'{snowflake_id}.{region}.snowflakecomputing.com',
     warehouse='SMALLWAREHOUSE',
     database='TESTDB',
     schema ='ECOMMERCE',
