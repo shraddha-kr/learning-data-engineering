@@ -16,7 +16,7 @@ USE WAREHOUSE SMALLWAREHOUSE;
 -- set database manually
 USE DATABASE TESTDB;
 -- select the schema
-use schema ECOMMERCE
+use schema ECOMMERCE;
 -- create stage use the file format
 create stage my_upload 
     file_format = ECOMMERCECSVFORMAT;
