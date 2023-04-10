@@ -15,3 +15,7 @@ https://gist.github.com/shraddha-kr/2c180329b1e7b5f8891ac45005aaa0d2
 
 #### PostgreSQl Local Ununtu Installation
 https://gist.github.com/shraddha-kr/41ecb6d825993d8755f3ead43b659a31
+
+
+#### References
+https://gist.github.com/shraddha-kr/091487960f7b2c9eb4726dfab590d6b0
