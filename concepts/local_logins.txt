@@ -1,0 +1,29 @@
+NIFI
+https://127.0.0.1:8443/nifi/ 
+admin/adminpingoo123 
+
+
+AIRFLOW
+http://0.0.0.0:8080/home 
+admin/admin 
+
+ELASTIC
+https://www.digitalocean.com/community/tutorials/how-to-install-and-configure-elasticsearch-on-ubuntu-22-04
+
+/etc/elasticsearch/elasticsearch.keystore
+
+sudo nano /etc/elasticsearch/elasticsearch.yml
+
+sudo systemctl start elasticsearch
+
+KIBANA
+sudo apt install kibana
+sudo systemctl enable kibana
+sudo systemctl start kibana
+http://localhost:5601/app/integrations/browse
+
+POSTGRES
+email - shraddhakr@outlook.com
+pgadmin pwd - postgres
+
+
