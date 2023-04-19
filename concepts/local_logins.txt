@@ -22,8 +22,12 @@ sudo systemctl enable kibana
 sudo systemctl start kibana
 http://localhost:5601/app/integrations/browse
 
-POSTGRES
+POSTGRES-UI
 email - shraddhakr@outlook.com
 pgadmin pwd - postgres
+http://127.0.0.1/pgadmin4/browser/
 
+POSTGRES-DESKTOP
+usn - postgres
+pwd - postgres
 
