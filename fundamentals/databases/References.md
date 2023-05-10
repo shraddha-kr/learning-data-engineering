@@ -31,3 +31,7 @@ https://extendsclass.com/postgresql-online.html#
 https://ozencb.github.io/postgresql-exercises/
 
 https://sqlpad.io/playground/
+
+MS SQL SERVER
+
+https://www.sqlshack.com/different-ways-to-sql-delete-duplicate-rows-from-a-sql-table/
