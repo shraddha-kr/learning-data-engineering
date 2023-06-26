@@ -14,7 +14,6 @@ https://learndataengineering.com/
 
 ![image](https://user-images.githubusercontent.com/69973111/231369906-d2cb1ea7-4fb4-457e-9272-166ceafc8164.png)
 
-
 #### Local Installation Steps & Issues On Ubuntu
 
 Nifi Local Ubuntu Installation    https://gist.github.com/shraddha-kr/b72e7a39e95a85ff025c6a586be2def9
@@ -25,6 +24,10 @@ Elastic Search & Kibana Local Ubuntu Installation   https://gist.github.com/shra
 
 PostgreSQL Local Ununtu Installation    https://gist.github.com/shraddha-kr/41ecb6d825993d8755f3ead43b659a31
 
-
 #### References used during the learning process
+
 https://gist.github.com/shraddha-kr/091487960f7b2c9eb4726dfab590d6b0
+
+https://training.linuxfoundation.org/resources/?_sft_content_type=free-course,tutorial
+
+https://training.linuxfoundation.org/training/introduction-to-kubernetes-on-edge-with-k3s-lfs156x/
