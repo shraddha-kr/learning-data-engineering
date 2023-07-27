@@ -1,0 +1,16 @@
+# Local app run
+flask run --host 0.0.0.0 --port 5000
+
+http://192.168.1.17:5000/
+
+# Create the Docker image by running the below-mentioned command. Here “flask-app” is the image name.
+sudo docker build -t flask-app . 
+
+# To check if the image has been created
+sudo docker images
+
+# This image will be created in local image registry. Then you can create a Docker container with the following command.
+sudo docker run -it -p 5000:5000 -d flask-app 
+
+# App URL
+http://localhost:5000/
