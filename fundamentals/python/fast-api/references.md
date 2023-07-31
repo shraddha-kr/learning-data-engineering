@@ -33,3 +33,12 @@ Data set
 Repo Fast API
 
 https://github.com/team-data-science/apis-with-fastapi
+
+
+? async, await keywords
+
+Uvicorn
+
+Is an ASGI (async server gateway interface) compatible web server. It's (simplified) the binding element that  handles the web connections from the browser or api client and then allows FastAPI to serve the actual request. Uvicorn listens on a socket, receives the connection, does a bit processing and hands the request over to FastAPI, according to the ASGI interface.
+
+https://www.uvicorn.org/#the-asgi-interface
