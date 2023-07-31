@@ -12,16 +12,6 @@ Interesting Links:
 
 [https://code.visualstudio.com/download](https://code.visualstudio.com/download)
 
-**Important Command Line Commands:**
-
-sudo apt update && upgrade
-
-sudo apt install python3 python3-pip ipython3
-
-pip install fastapi
-
-pip install uvicorn[standard]
-
 [https://fastapi.tiangolo.com/tutorial/first-steps/](https://fastapi.tiangolo.com/tutorial/first-steps/)
 
 Data set
@@ -36,9 +26,12 @@ https://github.com/team-data-science/apis-with-fastapi
 
 
 ? async, await keywords
+https://fastapi.tiangolo.com/async/
 
 Uvicorn
 
 Is an ASGI (async server gateway interface) compatible web server. It's (simplified) the binding element that  handles the web connections from the browser or api client and then allows FastAPI to serve the actual request. Uvicorn listens on a socket, receives the connection, does a bit processing and hands the request over to FastAPI, according to the ASGI interface.
 
 https://www.uvicorn.org/#the-asgi-interface
+
+https://stackoverflow.com/questions/71435960/what-is-the-purpose-of-uvicorn#:~:text=uvicorn%20is%20an%20ASGI%20(async,to%20serve%20the%20actual%20request.
