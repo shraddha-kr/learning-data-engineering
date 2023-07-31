@@ -30,3 +30,14 @@ Is an ASGI (async server gateway interface) compatible web server. It's (simplif
 https://www.uvicorn.org/#the-asgi-interface
 
 https://stackoverflow.com/questions/71435960/what-is-the-purpose-of-uvicorn#:~:text=uvicorn%20is%20an%20ASGI%20(async,to%20serve%20the%20actual%20request.
+
+##### Example References
+https://www.educative.io/blog/python-fastapi-tutorial
+
+https://codingnomads.co/blog/python-fastapi-tutorial
+
+https://www.datacamp.com/tutorial/introduction-fastapi-tutorial
+
+https://fastapi.tiangolo.com/tutorial/first-steps/
+
+https://realpython.com/fastapi-python-web-apis/
