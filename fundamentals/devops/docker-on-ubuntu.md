@@ -13,3 +13,5 @@ https://www.linuxtechi.com/how-to-install-docker-desktop-on-ubuntu/
 ![1690781586880](image/docker-on-ubuntu/1690781586880.png)
 
 https://askubuntu.com/questions/1374347/error-running-systemd-as-user-failed-to-connect-to-bus-dbus-session-bus-addr
+
+https://docs.docker.com/desktop/install/linux-install/

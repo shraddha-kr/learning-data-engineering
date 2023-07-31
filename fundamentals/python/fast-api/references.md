@@ -2,7 +2,6 @@
 
 ##### Interesting Links
 
-
 https://www.iana.org/assignments/media-types/media-types.xhtml#application
 
 https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
@@ -44,13 +43,12 @@ https://realpython.com/fastapi-python-web-apis/
 ##### Concepts
 
 * API's
-
 * Hosting v/s Using API's
-
 * HTTP Methods & Media Types
-
 * HTTP Response Codes
-
 * API Parameters
-
 * WSL2
+
+##### Issues
+
+https://stackoverflow.com/questions/65896681/exec-docker-credential-desktop-exe-executable-file-not-found-in-path
