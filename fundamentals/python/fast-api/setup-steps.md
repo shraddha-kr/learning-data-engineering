@@ -11,3 +11,7 @@ https://swagger.io/tools/swagger-editor/
 
 ![Screenshot from 2023-07-31 10-08-40](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/6606f34f-c2ac-4fdd-89b8-71eec330b74f)
 
+##### 3] Local API Run
+
+![Screenshot from 2023-07-31 10-22-39](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/92185463-0eb5-4086-afd5-606571382072)
+
