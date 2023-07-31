@@ -15,3 +15,11 @@ https://swagger.io/tools/swagger-editor/
 
 ![Screenshot from 2023-07-31 10-22-39](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/92185463-0eb5-4086-afd5-606571382072)
 
+![Screenshot from 2023-07-31 10-24-31](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/8dc9c2db-d2e3-4f66-9fbb-ecd1327ee149)
+
+![Screenshot from 2023-07-31 10-25-12](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/fbc868c5-b198-4be0-94ad-c5ff526bc012)
+
+![Screenshot from 2023-07-31 10-25-42](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/ac568a27-a152-424c-b35e-c641a637ad58)
+
+![Screenshot from 2023-07-31 10-26-03](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/8a2556ac-96ce-4cb9-af41-f86ec93d257a)
+
