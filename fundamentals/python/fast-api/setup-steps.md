@@ -49,6 +49,8 @@ Run
 Push
 ![Screenshot from 2023-08-01 11-22-32](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/c4aec0e2-82f1-4379-b550-13ade5d5ff78)
 
+![Screenshot from 2023-08-01 11-40-44](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/844641bf-458c-4479-8111-a26509b20d5c)
+
 CleanUp
 
 ![1690868001844](image/setup-steps/1690868001844.png)
