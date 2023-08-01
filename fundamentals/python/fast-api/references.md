@@ -14,6 +14,8 @@ https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
 
 async, await keywords - https://fastapi.tiangolo.com/async/
 
+Security - https://fastapi.tiangolo.com/tutorial/security/first-steps/
+
 ##### Data set
 
 [https://archive.ics.uci.edu/ml/datasets/online+retail](https://archive.ics.uci.edu/ml/datasets/online+retail)
