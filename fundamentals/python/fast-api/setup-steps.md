@@ -33,3 +33,13 @@ https://fastapi.tiangolo.com/deployment/docker/
 https://sweetcode.io/how-to-dockerize-and-deploy-a-fast-api-application-to-kubernetes-cluster/
 
 ![Alt text](dockerizing-fast-api-app.png)
+
+##### 5] Build, Launch & Push to DockerHub
+
+![1690867194200](image/setup-steps/1690867194200.png)
+
+![1690867182966](image/setup-steps/1690867182966.png)
+
+CleanUp
+
+![1690868001844](image/setup-steps/1690868001844.png)

@@ -53,4 +53,5 @@ https://realpython.com/fastapi-python-web-apis/
 
 ##### Issues
 
-https://stackoverflow.com/questions/65896681/exec-docker-credential-desktop-exe-executable-file-not-found-in-path
+* https://stackoverflow.com/questions/65896681/exec-docker-credential-desktop-exe-executable-file-not-found-in-path
+* https://stackoverflow.com/questions/64985913/failed-to-solve-with-frontend-dockerfile
