@@ -40,6 +40,15 @@ https://sweetcode.io/how-to-dockerize-and-deploy-a-fast-api-application-to-kuber
 
 ![1690867182966](image/setup-steps/1690867182966.png)
 
+Build
+![image](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/4f02a19a-cdcb-4134-a450-108ea68a768b)
+
+Run
+![Screenshot from 2023-08-01 11-23-14](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/b0c580df-1236-4106-aa0f-f12f029d59b9)
+
+Push
+![Screenshot from 2023-08-01 11-22-32](https://github.com/shraddha-kr/learning-data-engineering/assets/69973111/c4aec0e2-82f1-4379-b550-13ade5d5ff78)
+
 CleanUp
 
 ![1690868001844](image/setup-steps/1690868001844.png)
